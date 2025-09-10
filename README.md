@@ -16,9 +16,7 @@
 - **CSS3** – Styling and responsiveness
 - *(JavaScript-ready for future enhancements)*
 
-## **📂 Project Structure**
 
-Anime_Ratings_website_Html_Css_Javascript-main/ ├── index.html ├── home page.html ├── new releases.html ├── top rated.html ├── about us page.html ├── styles.css ├── vid-1.mp4 └── img-[1–29].jpg/png/webp
 
 Code
 
